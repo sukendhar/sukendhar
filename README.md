@@ -1,18 +1,18 @@
 # 💫 About Me:
-👋 Hello! I'm Sukhendar, a seasoned software engineer with over 12 years of experience specializing in the design and development of web applications using Ruby on Rails. My journey in the tech world has equipped me with a robust skill set and deep knowledge across various domains.
+👋 Hello! I'm Sukhendar, a seasoned software engineer with over 13 years of experience specializing in the design and development of web applications using Ruby on Rails. My journey in the tech world has equipped me with a robust skill set and deep knowledge across various domains.
 
 ### **Expertise and Skills:**
 
 -   **Ruby on Rails Development:** Extensive experience in developing and maintaining robust web applications using **Ruby on Rails**, including upgrading applications and Rails versions.
 -   **Object-Oriented Programming:** Proficient in Ruby and the principles of Object-Oriented Programming, ensuring clean, efficient, and maintainable code.
--   **Front-End Technologies:** Skilled in crafting responsive and dynamic user interfaces with **React**, **HTML5**, **CSS3**, **JavaScript**, **Bootstrap**, and **Backbone.js**.
+-   **Front-End Technologies:** Skilled in crafting responsive and dynamic user interfaces with **Angular**, **React**, **HTML5**, **CSS3**, **JavaScript**, **Bootstrap**, and **Backbone.js**.
 -   **Database Management:** Experienced with relational databases (**Oracle, PostgreSQL, MySQL**) and NoSQL databases (**MongoDB**), including designing and developing RESTful APIs.
--   **Background Processing:** Adept at using **Resque** and **Redis** for handling background tasks and processing data and images.
+-   **Background Processing:** Adept at using **Resque**, **Sidekiq**, **DelayedJob** and **Redis** for handling background tasks and processing data and images.
 -   **Testing and Quality Assurance:** Proficient in writing comprehensive test cases using **RSpec**, **Cucumber**, and **Capybara** to ensure code quality and functionality.
 -   **Security and Vulnerability Management:** Experienced in analyzing Sonatype vulnerabilities and applying necessary fixes to enhance application security.
 -   **Full SDLC and Agile:** In-depth experience with the full Software Development Lifecycle (**SDLC**), including architecting scalable platforms and adhering to **Agile** methodologies.
 -   **Automation and Bug Tracking:** Knowledgeable in using automation testing tools and bug tracking systems like **JIRA**.
--   **Cloud and Deployment:** Hands-on experience with **AWS** and **Heroku** for cloud services and deployment.
+-   **Cloud and Deployment:** Hands-on experience with **AWS**, **Heroku**, **Docker**, **Kubernetes** for cloud services and deployment.
 -   **Error Monitoring:** Familiar with error tracking tools like **Errbit** to monitor and resolve application issues.
 -   **Version Control and CI/CD:** Skilled in source code version control with **GitLab**, **GitHub**, and **Bitbucket**, and knowledgeable in Continuous Integration (**CI**) and Continuous Development (**CD**) practices.
 
